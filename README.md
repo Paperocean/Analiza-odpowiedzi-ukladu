@@ -1,1 +1,1 @@
-# Analiza-odpowiedzi-ukladu
+# Analiza odpowiedzi ukladu dynamicznego
